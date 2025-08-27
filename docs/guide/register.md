@@ -26,7 +26,6 @@
 ![online6](/resources/register/online6.png)
 - 9.当启动器左下角显示您的玩家信息时，意味着账户添加成功
 ![online7](/resources/register/online7.png)
-> ps:启动器支持保存多个微软正版玩家信息，如果您想添加更多微软账户，请重启启动器
 
 ## 1.3 LittleSkin登录
 > 一种第三方外置登录方式。通过LittleSkin皮肤站提供的账户进行验证，常用来自定义游戏皮肤和披风，只支持单人模式和支持该登录方式的服务器。
