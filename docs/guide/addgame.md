@@ -7,8 +7,8 @@ SCL启动器支持原版和NeoForge、Fabric、Forge、Quilt三种Mod加载器�
 > Quilt：由Fabric改进而来，兼容大部分Fabric Mod，旨在提供更优的Mod开发体验和更好的内部API。
 
 - 1.点击“添加游戏”
-![2_1](/resources/addgame/2_1.png)
+![2_1](../resources/addgame/2_1.png)
 - 2-6.依次选择你想安装的Mod加载器、游戏版本、游戏名(游戏列表界面显示的该版本的名字)，也可以额外点击“游戏图标”处选择图片作为游戏图标，完成之后点击“确认”
-![2_2](/resources/addgame/2_2.png)
+![2_2](../resources/addgame/2_2.png)
 - 7-9.等待下载完成，当左侧“游戏列表”出现您刚刚下载的版本时，代表游戏已经成功安装。您可以点击“启动”启动游戏或点击“路径”打开游戏版本文件夹
-![2_3](/resources/addgame/2_3.png)
+![2_3](../resources/addgame/2_3.png)
